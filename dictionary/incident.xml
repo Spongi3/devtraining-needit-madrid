@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="132" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="test_newField" max_length="40" name="x_58872_needit_test_newfield" type="string"/>
+    </element>
+</database>
